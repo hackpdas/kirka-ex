@@ -8,6 +8,8 @@
 5. Reload ``chrome://extensions`` with `Ctrl+R`.
 6. [Download kirka console.zip](https://github.com/hackpdas/kirka-ex/raw/main/kirka%20console.zip).
 7. [Download kirka hack Menu.zip](https://github.com/hackpdas/kirka-ex/raw/main/kirka%20hack%20Menu.zip).
+ Extract the zip then Hit load unpacked open kirka hack menu and hit Select Folder
+ and then do the same with kirka console
 9. You should see a new extension called `kirka hack Menu and kirka console` in your extensions.
 10. Go to [kirka](https://kirka.io/) (``https://kirka.io/``).
 14. Congrats, you've successfully INSTALLED kirka hacks
