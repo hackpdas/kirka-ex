@@ -3,7 +3,6 @@
 <br>
 
 1. Open **Google Chrome**.
-2. In Brave, enter ``chrome://extensions`` in the URL bar.
 3. In the top right of `brave://extensions`, you should see a toggler that says **Developer Mode**.
 4. Enable Developer Mode by clicking the toggler if it was off. You should see some new buttons pop up when you turn on Developer Mode.
 5. Reload ``chrome://extensions`` with `Ctrl+R`.
