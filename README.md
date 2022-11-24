@@ -1,0 +1,15 @@
+## How to hack kirka: Google Chrome (Manual Install)
+
+<br>
+
+1. Open **Google Chrome**.
+2. In Brave, enter ``chrome://extensions`` in the URL bar.
+3. In the top right of `brave://extensions`, you should see a toggler that says **Developer Mode**.
+4. Enable Developer Mode by clicking the toggler if it was off. You should see some new buttons pop up when you turn on Developer Mode.
+5. Reload ``chrome://extensions`` with `Ctrl+R`.
+6. [Download kirka console.zip](https://github.com/hackpdas/kirka-ex/raw/main/kirka%20console.zip).
+7. [Download kirka hack Menu.zip](https://github.com/hackpdas/kirka-ex/raw/main/kirka%20hack%20Menu.zip).
+9. You should see a new extension called `kirka hack Menu and kirka console` in your extensions.
+10. Go to [kirka](https://kirka.io/) (``https://kirka.io/``).
+14. Congrats, you've successfully INSTALLED kirka hacks
+15. Join [our discord server](https://discord.gg/Nn2AA63cyC) for more!
