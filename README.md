@@ -3,7 +3,7 @@
 <br>
 
 1. Open **Google Chrome**.
-3. In the top right of `brave://extensions`, you should see a toggler that says **Developer Mode**.
+3. In the top right of `chrome://extensions`, you should see a toggler that says **Developer Mode**.
 4. Enable Developer Mode by clicking the toggler if it was off. You should see some new buttons pop up when you turn on Developer Mode.
 5. Reload ``chrome://extensions`` with `Ctrl+R`.
 6. [Download kirka console.zip](https://github.com/hackpdas/kirka-ex/raw/main/kirka%20console.zip).
