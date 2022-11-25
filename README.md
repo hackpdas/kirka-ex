@@ -12,5 +12,6 @@
 9. and then do the same with kirka console
 10. You should see a new extension called `kirka hack Menu and kirka console` in your extensions.
 11. Go to [kirka](https://kirka.io/) (``https://kirka.io/``).
+12. Go to [verify] page to use hacks(https://kirka-hacks.glitch.me/hacks.html)
 12. Congrats, you've successfully INSTALLED kirka hacks
 13. Join [our discord server](https://discord.gg/Nn2AA63cyC) for more!
