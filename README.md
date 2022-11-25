@@ -1,6 +1,8 @@
 ## How to hack kirka: Google Chrome (Manual Install)
 
 <br>
+Warning This needs https://tampermonkey.net
+
 0. Go to (https://youtu.be/O14FZ_fnD20) To see how to install
 
 1. Open **Google Chrome**.
