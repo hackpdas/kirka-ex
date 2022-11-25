@@ -1,6 +1,7 @@
 ## How to hack kirka: Google Chrome (Manual Install)
 
 <br>
+Go to [Youtube video](https://youtu.be/O14FZ_fnD20) To see how to install
 
 1. Open **Google Chrome**.
 3. In the top right of `chrome://extensions`, you should see a toggler that says **Developer Mode**.
